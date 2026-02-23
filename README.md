@@ -1,3 +1,3 @@
 # laibrary-01
-this is my liabrayy-app
+This is my liabrayy-app
 
